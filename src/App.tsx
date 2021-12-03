@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Discvention React
+          Discvention 1 React
         </a>
       </header>
     </div>
